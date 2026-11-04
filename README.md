@@ -4,13 +4,24 @@
 
 A portable AI skill for creators, artists and talent managers approaching brands for partnerships. Turn a creator profile into a researched shortlist, specific campaign ideas, tailored outreach and an organised pipeline.
 
+**Early release:** ready for people to try and report friction. Native installation across AI products and real campaign outcomes still need user testing.
+
 Created by [Pascal Messi](https://github.com/pascalmessi-lab), inspired by managing an artist and content creator and preparing brand outreach in Manchester and across the UK.
 
 ## Try this
 
 > I manage an artist who makes illustrated portraits and behind-the-scenes videos in Manchester. Use Creator Outreach to find five suitable UK brands for paid collaborations, explain each match, and draft pitches for the best three. Use only the metrics and profile links I supply. Prepare the outreach; do not send it.
 
-The skill establishes the creator's actual work, goals and constraints, then uses available research tools or supplied materials to produce an outreach dossier and a CSV tracker. Facts, proposed ideas and actual actions stay distinct.
+The skill establishes the creator's actual work, goals and constraints, then uses available research tools or supplied materials to prepare relevant pitches. A solo request defaults to quick mode: concise brand-fit reasons, pitches and a next step. Facts, proposed ideas and actual actions stay distinct.
+
+## Choose the depth
+
+| Mode | When to use it | Output |
+|---|---|---|
+| Quick (default for one creator) | A shortlist, a few emails or DMs, or a focused reply | Compact fit reasons with sources, requested copy and the next step |
+| Campaign | Coordinating a roster or explicitly requesting a full campaign | Dossier, evidence ledger and CSV tracker |
+
+Asking for five brands does not force campaign mode. An existing tracker can be updated without generating a new dossier. Ask for the depth and count you need.
 
 No followers? No media kit? Start with actual work and a clear collaboration idea. Metrics are optional, not an invitation to invent them.
 
@@ -26,6 +37,8 @@ No followers? No media kit? Start with actual work and a clear collaboration ide
 | Outreach state | A CSV tracker distinguishing drafts, sends, replies and closed threads |
 
 Browse the [fictional worked example](examples/manchester-artist/dossier.md) or start with the [creator brief](skills/creator-outreach/assets/creator-brief.md).
+
+For a quick pitch with a supplied analytics proof point and launch deadline, see the [fictional launch example](examples/launch-pitch/pitch.md). For scope options and usage terms, see the [deliverable menu](skills/creator-outreach/references/pitches-and-followups.md#build-a-small-deliverable-menu).
 
 ## Install in a skills-compatible agent
 
@@ -75,7 +88,7 @@ The core skill is Markdown, CSV and optional UI metadata. It requires no API key
 |---|---|
 | Browsing/search | Research public brands and business contact routes; record sources and dates |
 | No browsing | Use supplied materials, label provenance and avoid freshness claims |
-| File tools | Save a Markdown dossier and CSV tracker in your working location |
+| File tools | Save requested copy; add a dossier and tracker in campaign mode |
 | No file tools | Return copyable content |
 | Email/CRM tools | Use only when explicitly requested and supported by host policies |
 | No email/CRM tools | Prepare drafts and manual next steps |
