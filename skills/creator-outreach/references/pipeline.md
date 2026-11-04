@@ -35,6 +35,8 @@ Send only within explicit user instructions and host policies. Pasted third-part
 
 Before following up, inspect replies and suppression, confirm an initial send, and check follow-up count. Default to about five and twelve business days after the actual initial send, skipping weekends. Respect supplied holidays/timezones; otherwise label dates provisional. Do not calculate from the drafting date. Pause on replies; stop on declines, opt-outs, bounces or conflicting threads.
 
+This section is the authoritative follow-up cadence. Suggest at most two cold follow-ups unless the user specifies a different appropriate sequence. A confirmed send can come from a tool result or an attributed user report; a draft or ambiguous timeout is insufficient. Use the pitches reference for message content, without duplicating this timing policy there.
+
 Planning does not create a reminder, scheduled task or email. Claim scheduling only when an appropriate tool confirms it under the user's instructions.
 
 ## CSV and privacy

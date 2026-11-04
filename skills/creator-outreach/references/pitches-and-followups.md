@@ -24,6 +24,19 @@ Then one proof point if there is a true one (a comparable past collaboration, a 
 - **Give the brand a use.** Say where the content could live: the creator's channels, the brand's social, a shop window, a product page. This is a proposal, and usage rights are agreed later.
 - **No metrics? Lead with the work.** A clear idea plus two links to great examples beats weak numbers. If numbers are supplied and strong, put one in context ("her process videos average 40k views on TikTok, Sept–Oct 2026, from her analytics").
 
+## Build a small deliverable menu
+
+Use these as illustrative scope options, not a rate card or a promise. Recommend one relevant option in a first pitch; show at most two alternatives when useful.
+
+| Option | Example scope | Terms to separate |
+|---|---|---|
+| Creator-posted process video | One proposed 30–60 second video on a named creator channel, showing the product in use | Production, posting date, revision rounds and any brand reuse |
+| Video with supporting stories | One creator-posted video plus a small agreed set of stories, e.g. a process detail and final reveal | Story count, format, live period and links where available |
+| Content for the brand's channels (often called UGC) | One product/process video supplied to the brand, without promising a post on the creator's account | Organic use, editing, raw files and paid advertising as separate scope |
+| Commissioned artwork | One original piece or defined design with agreed dimensions, materials and delivery | Original ownership, reproduction/licensing, production, shipping and installation |
+
+A production fee does not automatically include audience distribution, unlimited revisions, paid media or exclusivity. Ask what the brand needs before recommending a larger package. Set rates only from the creator's supplied terms or explicit instructions. Use a bounded first project to learn whether there is a fit; do not promise a retainer in a cold pitch.
+
 ## Subject lines
 
 Name the creator and the idea or format, not the relationship. Keep it under about 60 characters so it isn't cut off.
@@ -43,13 +56,15 @@ Name the creator and the idea or format, not the relationship. Keep it under abo
 >
 > [Supported brand detail] gave me an idea: [concrete deliverable with format, platform and where the product appears]. [Why now, if real.]
 >
-> [Optional proof point.] Her work: [label]: [exact link] · [label]: [exact link]
+> [Optional proof point.] [Creator]'s work: [label]: [exact link] · [label]: [exact link]
 >
 > [One yes/no ask]
 >
 > [Sender]
 
 Replace every placeholder before calling a draft ready. Never invent a named recipient to fill the greeting.
+
+For a creator writing directly, use first person ("I'm [Name]...") and "My work"; do not invent a manager. Prefer one exact relevant post or portfolio item when supplied, followed by the profile links. Describe a metric with its actual definition, sample and period; do not turn a median into an average or a view count into unique reach.
 
 ## Worked example (fictional)
 
@@ -60,7 +75,7 @@ Replace every placeholder before calling a draft ready. Never invent a named rec
 >
 > I'm Alex, manager of Nia Vale, a Manchester illustrator whose sketchbook process videos show a drawing from first line to finished print.
 >
-> Your sketchbooks and Manchester shop gave me an idea for a paid video: Nia draws one Manchester street start to finish in a Paper North sketchbook, ending on the finished print. It would work as a short TikTok and Instagram video, and the original could be displayed in your shop.
+> Your sketchbooks and Manchester shop gave me an idea for a paid video: Nia draws one Manchester street start to finish in a Paper North sketchbook, ending on the finished print. We could agree one posting channel and separately explore displaying the original in your shop.
 >
 > You can see the same format here: Instagram: https://instagram.example/niavale · TikTok: https://tiktok.example/@niavale
 >
@@ -76,10 +91,10 @@ Why it works: the product is part of the process, the idea is visual and approva
 
 ## Follow-ups
 
-Each follow-up must add something: a quick sketch or mock-up of the concept, a new relevant post, or a timely hook. "Just bumping this" adds nothing.
+Use the cadence, stop conditions and date rules in [pipeline.md](pipeline.md); that is the single source for timing. Each follow-up must add something: a quick sketch or mock-up, a relevant post, or a supported timely hook. "Just bumping this" adds nothing.
 
-- **Follow-up 1** (~5 business days after send): one or two lines plus the new item. Reply in the same thread.
-- **Follow-up 2** (~12 business days): a polite close: "I'll assume the timing isn't right; happy to share future ideas if useful."
+- **First follow-up:** one or two lines plus the new item. Reply in the same thread.
+- **Final follow-up:** a polite close: "I'll assume the timing isn't right; happy to share future ideas if useful."
 
 Never invent results or deadlines to justify a follow-up. An out-of-office reply means picking a date after their return, not following up automatically.
 
@@ -103,12 +118,19 @@ These are questions to settle, not things the brand gets by default:
 
 - **Deliverables:** number, format, length, revision rounds, approval process.
 - **Posting:** platforms, dates, whether the brand must approve before posting.
-- **Usage:** organic reposting versus paid ads. Running ads through the creator's account (Instagram partnership ads, TikTok Spark Ads, often called "whitelisting") is a separate, paid permission with a duration.
-- **Usage period and territory**, and **exclusivity** (which competitors, for how long). Both should raise the price.
+- **Usage:** distinguish organic reposting, paid ads from the brand's account, and ads using the creator's identity/content through platform permissions (such as Meta partnership ads or TikTok Spark Ads, sometimes called "whitelisting"). Agree the content, scope, duration and compensation separately. Permission is not a password handover, and the commercial fee is negotiated rather than automatically set by the platform.
+- **Usage period and territory**, and **exclusivity** (which competitors, for how long). Consider their commercial value when negotiating; do not assume they are included.
 - **Costs and payment:** materials, travel, payment terms (e.g. 30 days), and deposit for commissioned work.
 
 Don't give legal conclusions; flag terms for the user, or their adviser, to review.
 
+Platform permission settings can have different scopes and durations. Check the current official instructions before proposing a permission flow; do not assume a disclosure label and ad authorisation are identical. See TikTok's [About Spark Ads](https://ads.tiktok.com/resources/help/article/spark-ads?lang=en-GB) and [creator authorisation guidance](https://ads.tiktok.com/resources/help/article/brand-collaboration-through-tiktok-content-suite). These describe platform mechanics, not a creator's negotiated fee.
+
 ## Disclosure (UK)
 
-Paid or gifted content usually has to be clearly labelled as advertising (for example "Ad" at the start of the caption) under UK advertising rules and consumer law. ASA and CMA guidance covers this. When proposing deliverables, assume they'll be labelled, and don't suggest content that hides the commercial relationship. For other markets, note that local rules apply and suggest the user checks them. Don't state specific legal requirements as certain; point to current official guidance.
+Plan clear, prominent advertising disclosure for UK promotional content involving payment, gifts, affiliate rewards or other incentives. Use an upfront identifier such as `Ad` or `#Ad` as appropriate to the format; a brand tag or the word `gifted` alone is not a substitute for clear advertising identification. A hashtag is not inherently required. Check the applicable format and relationship against current official guidance rather than giving a legal opinion about a particular post.
+
+- [ASA/CAP: Influencers' guide to making clear that ads are ads](https://www.asa.org.uk/resource/influencers-guide.html).
+- [CMA: Social media endorsements — guidance for content creators](https://www.gov.uk/government/publications/social-media-endorsements-guidance-for-content-creators/social-media-endorsements-being-transparent-with-your-followers).
+
+Sources checked 2026-11-04. Check them again when a live task depends on the current rules. For other markets, identify the applicable local guidance.
