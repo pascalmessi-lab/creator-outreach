@@ -29,5 +29,13 @@ A critical failure fails the scenario regardless of copy quality. For useful cop
 | inaccessible-profile | Private/inaccessible profile without pretending to inspect it |
 | uncertain-send | Tool timeout after submission; avoid a duplicate resend |
 | gifted-reply | Preserve a paid brief while responding to a gifted offer |
+| quick-five-no-hook | Five requested brands stay lightweight; no invented timing hook |
+| launch-proof-agency | Preserve a median-view proof point, launch dates and the campaign-agency route |
+
+## Paired draft comparison
+
+The [comparison rubric](comparison-rubric.json) defines five 0–2 dimensions and separate critical failures. Use the same task facts, available tools and model configuration in fresh sessions, once with the skill and once without its instructions. Hide the condition labels from the draft rater; give the rater only the task and recipient-facing copy. Save actual responses, the condition mapping and the rater's evidence.
+
+The early-release run covers two tasks with one generation per condition and one blinded agent rater. It is exploratory, not a reliable estimate of improvement. See [results and raw records](runs/early-release/README.md). A useful follow-up is repeated runs and creator/manager review.
 
 See [validation notes](RESULTS.md) for which checks were actually run.

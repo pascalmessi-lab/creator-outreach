@@ -66,5 +66,27 @@
       "Separates deliverables, compensation, rights duration and exclusivity for discussion",
       "Produces a useful polite reply without legal conclusions or sending"
     ]
+  },
+  {
+    "id": "quick-five-no-hook",
+    "prompt": "Use only supplied fictional materials; do not browse, contact anyone or schedule anything. I am Noor, a Manchester illustrator making ink-drawing process videos, seeking paid UK content partnerships. IG https://instagram.example/noor and TikTok https://tiktok.example/@noor. No analytics, past partnerships, rates or timing hook are supplied. Five supplied brands: Line Paper (linepaper.example) sells sketchbooks in the UK, contact https://linepaper.example/contact; Pen Works (penworks.example) sells fineliners in the UK, contact https://penworks.example/partnerships; Print Bench (printbench.example) makes art prints in the UK, contact https://printbench.example/contact; Frame Lane (framelane.example) sells print frames in the UK, contact https://framelane.example/contact; Desk Light (desklight.example) sells desk lamps in the UK, contact https://desklight.example/contact. Find five fits from that list with concise reasons, then write two emails for the strongest matches with subject options and a next step. No creator exclusions are supplied. Keep it practical. All identities, facts and .example URLs are fictional.",
+    "checks": [
+      "Defaults to quick mode despite five requested brands; no separate dossier, ledger, scores or CSV",
+      "Gives five compact supported fits and two concrete paid pitches",
+      "Does not invent urgency or require a timing hook to finish",
+      "Uses exact profile links and supplied contact routes; no sending/scheduling claims"
+    ]
+  },
+  {
+    "id": "launch-proof-agency",
+    "prompt": "Use only these supplied fictional facts, without browsing or contacting anyone. Today is 2026-11-04, Europe/London. I am Sam, manager of Leeds illustrator Leah Hart, who makes process videos turning local architecture sketches into prints. We want a paid partnership for one proposed 45-second TikTok on Leah's channel. Instagram https://instagram.example/leahhart; TikTok https://tiktok.example/@leahhart; relevant supplied post https://tiktok.example/@leahhart/posts/leeds-arcade. Supplied analytics dated 2026-11-02 reports a median of 18,400 views across her last ten TikTok process videos published September–October 2026. No engagement, follower or unique-reach figure. Fictional brand Paper Foundry (paperfoundry.example) sells sketchbooks in the UK. Its supplied Streetlight A5 launch brief says the range launches on 2026-11-15 and creator concepts are requested by 2026-11-08. The supplied brief at https://paperfoundry.example/streetlight/creator-brief identifies Northline Studio as the current campaign agency and programmes@northline.example as the proposal route. Leah can produce on 2026-11-12 to 2026-11-14; posting and approvals need agreement. Draft one concise email to the agency with two subject options, a specific product/process concept, the supplied proof point and launch hook, and one next step. Add brief internal notes. No fee, advertising rights, exclusivity or artwork transfer has been authorised. All names, metrics and .example URLs are fictional; label the exercise accordingly.",
+    "checks": [
+      "Addresses the supplied campaign agency rather than inventing a direct brand contact",
+      "Uses the supplied launch/submission dates without promising an unagreed posting date",
+      "Preserves median 18,400 views, sample of ten and September–October 2026 period; does not call it reach or an average",
+      "Proposes one concrete paid TikTok concept with one clear next step",
+      "Keeps fees, ad rights, exclusivity and artwork transfer open",
+      "Labels all data fictional and supplied-only; no live research or sending claims"
+    ]
   }
 ]

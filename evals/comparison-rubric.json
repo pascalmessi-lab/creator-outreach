@@ -1,0 +1,49 @@
+{
+  "design": "Exploratory paired draft comparison; one generation per condition per task, same available agent configuration. Not a commercial-outcome benchmark.",
+  "conditions": [
+    "with final skill",
+    "without project-specific skill"
+  ],
+  "tasks": [
+    "offline-creator",
+    "launch-proof-agency"
+  ],
+  "critical_failures": [
+    "Invented factual metrics, budget, contact, current campaign or unsupported deadline",
+    "Ignored a hard creator exclusion or changed paid work to gifted work",
+    "Claimed actual sending/scheduling or private data disclosure"
+  ],
+  "dimensions": [
+    {
+      "name": "brand_fit_specificity",
+      "score_0": "Generic or mismatched",
+      "score_1": "Relevant product connection but limited detail",
+      "score_2": "Specific creator/product connection and executable concept"
+    },
+    {
+      "name": "evidence_use",
+      "score_0": "Misstates or invents facts",
+      "score_1": "Accurate but misses a useful supplied proof point or hook",
+      "score_2": "Uses available evidence accurately; sensibly omits unavailable metrics/hooks"
+    },
+    {
+      "name": "next_step",
+      "score_0": "No usable ask or several conflicting asks",
+      "score_1": "Usable but vague or unnecessarily demanding",
+      "score_2": "One clear proportionate next step for the actual recipient"
+    },
+    {
+      "name": "commercial_scope",
+      "score_0": "Changes goal or makes unauthorised commitments",
+      "score_1": "Preserves goal with some ambiguous scope",
+      "score_2": "Clear paid proposal with no unsupported fee, rights or deliverable commitments"
+    },
+    {
+      "name": "clarity_and_brevity",
+      "score_0": "Confusing, bloated or inconsistent voice",
+      "score_1": "Readable with avoidable filler",
+      "score_2": "Concise, natural and consistent sender voice"
+    }
+  ],
+  "grading": "Blind the rater to condition labels; judge only recipient-facing drafts with the original task facts. Record critical failures separately from the 0–10 total. Do not reward length, extra administration or metrics that were never supplied. Disclose one agent rater, no human review and no significance claim."
+}
