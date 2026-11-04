@@ -30,6 +30,8 @@ def main():
         "examples/manchester-artist/dossier.md",
         "examples/manchester-artist/outreach-tracker.csv",
         "evals/scenarios.json", "evals/README.md", "evals/RESULTS.md",
+        "examples/launch-pitch/brief.md", "examples/launch-pitch/pitch.md",
+        "evals/comparison-rubric.json",
     ]
     for path in required:
         require((ROOT / path).is_file(), f"Missing {path}")
@@ -101,7 +103,7 @@ def finish():
         for error in ERRORS:
             print("FAIL:", error)
         return 1
-    print("PASS: skill structure, local links, metadata, tracker contract and six evaluation fixtures")
+    print("PASS: skill structure, local links, metadata, tracker contract and evaluation fixtures")
     print("These checks do not measure model behaviour or commercial outcomes.")
     return 0
 
