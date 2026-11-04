@@ -1,0 +1,4 @@
+interface:
+  display_name: "Creator Outreach"
+  short_description: "Research brand matches and prepare credible pitches"
+  default_prompt: "Use $creator-outreach to build a researched brand shortlist and tailored partnership pitches for my creator."
