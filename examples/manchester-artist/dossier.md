@@ -30,7 +30,7 @@ Hi Paper North team,
 
 I'm Alex, manager of Nia Vale, a Manchester illustrator whose sketchbook process videos follow a drawing from first line to finished print.
 
-Your sketchbooks and Manchester shop gave me an idea for a paid video: Nia draws one Manchester street start to finish in a Paper North sketchbook, ending on the finished print. It would work as a short TikTok and Instagram video, and the original could be displayed in your shop.
+Your sketchbooks and Manchester shop gave me an idea for a paid video: Nia draws one Manchester street start to finish in a Paper North sketchbook, ending on the finished print. We could agree one posting channel and separately explore displaying the original in your shop.
 
 You can see the same format here: Instagram: https://instagram.example/niavale · TikTok: https://tiktok.example/@niavale
 
@@ -59,10 +59,7 @@ Alex Reed
 
 ## Follow-up plan
 
-Only after a confirmed send, and only if there's no reply:
-
-- **About five business days later:** reply in the same thread with something new, such as a rough storyboard frame or sketch of the opening shot, in one or two lines.
-- **About twelve business days later:** a polite close, offering to share future ideas.
+After an actual send, use the [pipeline cadence and stop conditions](../../skills/creator-outreach/references/pipeline.md#drafting-sending-and-follow-ups). A first follow-up could add a rough storyboard frame or sketch of the opening shot. A final note could politely close the loop. The timing policy lives in that reference, rather than being repeated here.
 
 No calendar dates are set because nothing has been sent. Nothing is scheduled.
 
