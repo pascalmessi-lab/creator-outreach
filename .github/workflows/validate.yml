@@ -1,6 +1,6 @@
 name: Validate skill package
 
-on: [push, pull_request]
+on: [push, pull_request, workflow_dispatch]
 
 permissions:
   contents: read
@@ -14,3 +14,21 @@ jobs:
         with:
           python-version: '3.11'
       - run: python3 tools/validate_repository.py
+
+  install-smoke-test:
+    if: github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - name: Install the public skill with the Skills CLI
+        working-directory: ${{ runner.temp }}
+        run: |
+          mkdir creator-outreach-install
+          cd creator-outreach-install
+          npx --yes skills@latest add pascalmessi-lab/creator-outreach --skill creator-outreach --agent codex --copy --yes
+          test -f .agents/skills/creator-outreach/SKILL.md
+          diff -r "$GITHUB_WORKSPACE/skills/creator-outreach" .agents/skills/creator-outreach
