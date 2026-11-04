@@ -12,8 +12,8 @@ Prepared: [date] · Evidence mode: [live-researched / supplied-materials only]
 
 ## Brand shortlist
 
-| Brand / domain | Eligibility | Specific fit | Rubric dimensions / evidence coverage | Proposed idea | Contact route and source | Uncertainty / next step |
-|---|---|---|---|---|---|---|
+| Brand / domain | Eligibility | Specific fit | Rubric dimensions / evidence coverage | Timing | Proposed idea | Contact route and source | Uncertainty / next step |
+|---|---|---|---|---|---|---|---|
 
 ## Exclusions and coordination
 

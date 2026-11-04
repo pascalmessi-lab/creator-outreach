@@ -2,6 +2,23 @@
 
 Date: 2026-11-04. Stage: initial development validation, before a public user pilot.
 
+## Revision: tighter skill and pitching craft (2026-11-04)
+
+What changed:
+
+- SKILL.md: repeated guardrails merged into one Ground rules section (about 1,310 → 930 words), and a new quick/campaign mode switch.
+- Pitches reference: the reader, a five-part pitch structure, subject lines, a rewritten worked example, follow-ups that add something, gifted/rate/low-offer replies, usage terms and UK ad disclosure.
+- Fit rubric: geography is scored on its own; timing is recorded separately rather than scored.
+- Example dossier and dossier template updated to match.
+
+Status of evidence:
+
+- The behavioural smoke checks below were run on the **previous** version. They have not been re-run on this revision, so treat them as indicative only.
+- The guardrails those checks cover (exclusions, no invented metrics, no claimed sending, suppression, hostile sources) are kept in the Ground rules, with wording consolidated rather than removed.
+- Still needed: fresh-session runs of all six scenarios on this revision, plus a with/without-skill comparison of pitch quality.
+
+The notes below describe the original version.
+
 ## Package checks actually run
 
 - The skill-creator package's original `quick_validate.py` passed the skill folder's YAML frontmatter and naming checks.

@@ -60,7 +60,7 @@ Replace every placeholder before calling a draft ready. Never invent a named rec
 >
 > I'm Alex, manager of Nia Vale, a Manchester illustrator whose sketchbook process videos show a drawing from first line to finished print.
 >
-> Seeing your new A5 sketchbook range alongside the Northern Quarter shop gave me an idea for a paid video: Nia draws one Manchester street (say, Oldham Street) start to finish in a Paper North sketchbook, ending on the finished print. It would suit your autumn range on TikTok and Instagram, and the original could be displayed in the shop.
+> Your sketchbooks and Manchester shop gave me an idea for a paid video: Nia draws one Manchester street start to finish in a Paper North sketchbook, ending on the finished print. It would work as a short TikTok and Instagram video, and the original could be displayed in your shop.
 >
 > You can see the same format here: Instagram: https://instagram.example/niavale · TikTok: https://tiktok.example/@niavale
 >
@@ -68,7 +68,7 @@ Replace every placeholder before calling a draft ready. Never invent a named rec
 >
 > Alex Reed
 
-Why it works: the product is part of the process, the idea is visual and approvable as one video, there is a local hook and a seasonal reason, the use is suggested but not promised, and the ask takes ten seconds to answer. (The "new range" and shop detail must come from a real source in actual use.)
+Why it works: the product is part of the process, the idea is visual and approvable as one video, the shop gives a local hook, the use is suggested but not promised, and the ask takes ten seconds to answer. There is no "why now" because the brief supplies none, and the pitch doesn't invent one. With a real launch or season, add one sentence for it.
 
 ## Short DM
 
