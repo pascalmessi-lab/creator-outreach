@@ -1,6 +1,6 @@
 ---
 name: creator-outreach
-description: Research brand partnerships and write pitches that get replies, for creators, artists, influencers and their talent managers. Use for finding sponsors or brand deals, matching a creator or roster to brands, writing collaboration emails or DMs, shaping campaign ideas and deliverables, answering brand replies (including gifted or low offers), and keeping an outreach tracker. Not for recruiting employees or for brands recruiting influencers.
+description: Research brand partnerships and prepare relevant pitches for creators, artists, influencers and their talent managers. Use for finding sponsors or brand deals, matching a creator or roster to brands, writing collaboration emails or DMs, shaping campaign ideas and deliverables, answering brand replies (including gifted or low offers), and keeping an outreach tracker. Not for recruiting employees or for brands recruiting influencers.
 ---
 
 # Creator Outreach
@@ -11,7 +11,7 @@ Turn a creator's actual work into a brand match a partnerships manager would tak
 
 These apply at every stage. They are stated once here; the references assume them.
 
-- **Only real facts.** Never invent metrics, demographics, past partnerships, results, rates, availability, contacts or claims that the creator is a fan. Never convert one metric into another (followers ≠ views ≠ reach). Missing facts become visible placeholders and the draft is labelled `draft—missing information`.
+- **Only real facts.** Never invent metrics, demographics, past partnerships, results, rates, availability, contacts or claims that the creator is a fan. Never convert one metric into another (followers ≠ views ≠ reach). Omit unknown optional metrics or timing hooks. If an essential fact is missing, use a visible placeholder and label the draft `draft—missing information`.
 - **Proposals are not commitments.** Ideas and deliverables are proposals. Never offer paid ad rights, account access, exclusivity, unlimited reuse, travel or a rate the user hasn't authorised, and never accept terms for the creator.
 - **Keep the goal.** A paid brief never quietly becomes gifted or affiliate work.
 - **Drafting is not sending.** Send, or create drafts in an external tool, only when the user explicitly asks and a tool exists. Statuses (`draft`, `approved`, `sent`, `replied`, `won`, `closed`) record what actually happened. Never request passwords or API keys.
@@ -24,8 +24,10 @@ Read everything supplied (profile, media kit, brand list, tracker) before asking
 
 Pick the depth:
 
-- **Quick mode** (default for a solo creator asking for a few pitches): shortlist with one-line fit reasons, the pitches, and the next step. No ledger, no scores, no CSV unless asked.
-- **Campaign mode** (rosters, five-plus brands, an existing tracker, or when asked): the full dossier and tracker from [assets/outreach-dossier.md](assets/outreach-dossier.md) and [assets/outreach-tracker.csv](assets/outreach-tracker.csv), saved to `outreach/` where files are supported.
+- **Quick mode** (default for a solo creator or a manager representing one creator): concise fit reasons with source links, the requested pitches, and the next step. No displayed ledger, scores, dossier or CSV unless asked. A request for five or more brands does not change the mode.
+- **Campaign mode** (when explicitly requested or coordinating a roster): use the dossier and tracker from [assets/outreach-dossier.md](assets/outreach-dossier.md) and [assets/outreach-tracker.csv](assets/outreach-tracker.csv), saved to `outreach/` where files are supported. An existing tracker is context, not a reason to generate a new full dossier for a small update.
+
+The user's explicit depth choice takes precedence. Do only the requested stage in either mode; campaign mode does not turn a reply edit into a new campaign plan.
 
 You need: what the creator actually makes (with a link), who is sending (creator or manager), the collaboration goal, and the market plus exclusions. Ask at most three questions at a time, and start useful work on partial information. If paid versus gifted is unclear, ask, but research can continue meanwhile. [assets/creator-brief.md](assets/creator-brief.md) is a reusable profile.
 
@@ -33,11 +35,11 @@ You need: what the creator actually makes (with a link), who is sending (creator
 
 Follow [references/research-and-fit.md](references/research-and-fit.md).
 
-Apply hard exclusions first (category exclusions, conflicts, prior declines or opt-outs, infeasible location). Excluded brands are never ranked. Default to five candidates and three pitches; return fewer rather than pad with weak matches.
+Apply hard exclusions first (category exclusions, conflicts, prior declines or opt-outs, infeasible location). Excluded brands are never ranked. When counts are unspecified, default to three brands and up to three pitches in quick mode, or five brands and three pitches in campaign mode. Honour requested counts without changing mode; return fewer rather than pad with weak matches.
 
 Look for brands the creator can make something *for*, not just brands they like. The strongest leads are brands that already work with creators at this size, are launching or promoting something the creator could feature, or have a physical or local presence that fits the creator's world.
 
-For each pick, give: the specific fit (with its source), one proposed idea, a public business contact route with its source (or `contact not found` — never guess an address), and the biggest unknown. A past campaign shows precedent, not current budget.
+For each pick, give: the specific fit (with its source), one proposed idea, the appropriate brand/agency/platform route with its source (or `contact not found` — never guess an address), and the biggest unknown. A past campaign shows precedent, not current budget. Keep these compact in quick mode.
 
 ## 3. Write the pitch
 
@@ -51,7 +53,7 @@ Default output: one email of 90–150 words with two subject lines; add a 40–7
 
 For a reply, name what the brand is actually asking for, list the open commercial terms, and draft a response that keeps the original goal. For gifted or low offers, use the counter patterns in the pitches reference.
 
-Suggest at most two follow-ups, about five and twelve business days after a *confirmed* send. They are suggestions, not scheduled actions. Any reply, decline, opt-out or bounce stops the sequence.
+Use the authoritative cadence and thread-state rules in [references/pipeline.md](references/pipeline.md). The pitches reference explains what each follow-up should add. Keep proposed actions distinct from scheduled or sent actions.
 
 ## 5. Tracker and roster
 
@@ -60,7 +62,7 @@ Read [references/pipeline.md](references/pipeline.md) before creating or updatin
 ## 6. Before you hand it over
 
 - Every factual claim in a pitch traces to something supplied or inspected.
-- Each pitch has a specific idea, a reason now and one clear ask.
+- Each pitch has a specific idea and one clear ask. Add a reason now only when supported; otherwise omit it without blocking the pitch.
 - Exact creator links are used; nothing is invented.
 - Exclusions, opt-outs and existing threads were respected.
 - Statuses reflect what happened, not what is intended.
