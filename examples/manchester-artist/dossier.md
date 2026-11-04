@@ -1,73 +1,78 @@
 # Nia Vale: fictional outreach dossier
 
-**Mode: supplied-materials only. Nothing was researched live or sent.** All names, brands and URLs are fictional; `.example` links illustrate placement and must not be used for outreach. Read the [input brief](brief.md).
+**Mode: campaign mode, supplied-materials only. Nothing was researched live or sent.** All names, brands and URLs are fictional; `.example` links illustrate placement and must not be used for outreach. Read the [input brief](brief.md).
 
 ## Recommendation
 
-Start with Paper North: sketchbook process content connects directly to the supplied product and Manchester location. Loop Frame is a secondary fit for a framed-print reveal, subject to production and commercial terms. Neither brief establishes a budget or open campaign.
+Start with Paper North: the sketchbook is part of Nia's process, and the Manchester shop adds a local hook and somewhere to display the original. Loop Frame is a close second with a clear before-and-after idea, but it has no named contact, so the first ask is simply to find the right person. Neither brief establishes a budget, an open campaign or a timing hook.
 
-No follower or engagement claims are needed: lead with Nia's work and a specific concept.
+No follower or engagement claims are needed: both pitches lead with Nia's work and one concrete video idea.
 
 ## Shortlist
 
-| Brand | Eligibility | Fit: audience/context, creative, format, geography | Proposed idea | Contact route | Material unknown |
-|---|---|---|---|---|---|
-| Paper North | Eligible for exploration | 1 / 2 / 2 / ?; 3 of 4 assessed | A Manchester street-scene illustration from first sketch to finished print in a Paper North sketchbook | Supplied: partnerships@papernorth.example; not checked | Budget, interest, timing and content-use terms |
-| Loop Frame | Eligible for exploration | 1 / 2 / 2 / ?; 3 of 4 assessed | A process-to-display video showing an original portrait becoming a framed print | Supplied: https://loopframe.example/contact; not checked | Production costs, interest, timing and deliverables |
+| Brand | Eligibility | Fit: audience/context, creative, format, geography | Timing | Proposed idea | Contact route | Material unknown |
+|---|---|---|---|---|---|---|
+| Paper North | Eligible for exploration | 1 / 2 / 2 / 2; 7 of 8, 4 of 4 assessed | Unknown | One Manchester street drawn start to finish in a Paper North sketchbook, ending on the print; original shown in the shop | Supplied: partnerships@papernorth.example; not checked | Budget, interest and content-use terms |
+| Loop Frame | Eligible for exploration | 1 / 2 / 2 / 2; 7 of 8, 4 of 4 assessed | Unknown | Portrait from first sketch to framed print on the wall, ending on a before-and-after shot | Supplied: https://loopframe.example/contact; not checked | Right contact, budget, framing/production costs |
 
-Audience/context is a partial fit based on art-making content, not invented analytics. UK delivery fits the brief, but timing/availability is unknown, so the combined geography/timing dimension remains unscored. No total is calculated for incomplete assessments. These are sorting judgments, not sponsorship probabilities. Paper North ranks first because its shop/product make the concept more specific.
+Audience/context is a partial fit, based on art-making content rather than invented analytics. Geography scores 2 for both: they sell across the UK, and the video can be made in Manchester. The two totals tie; Paper North ranks first on judgement because its shop makes the idea more specific and it has a named partnerships route. These are sorting aids, not sponsorship probabilities.
 
-**Excluded:** Afterhours Gin conflicts with the alcohol exclusion regardless of its artwork opportunity.
+**Excluded:** Afterhours Gin conflicts with the alcohol exclusion, regardless of its artwork opportunity.
 
 ## Paper North: draft ready for review in the fictional scenario
 
-Recipient: supplied partnerships route. A real campaign needs real links and contact checks before sending.
+Recipient: supplied partnerships address. A real campaign needs real links and contact checks before sending.
 
-Subject A: A Manchester sketch-to-print idea with Nia Vale
-Subject B: Nia Vale × Paper North: from street scene to sketchbook
+Subject A: Sketch-to-print video idea for Paper North
+Subject B: Nia Vale × Paper North: Manchester street scenes
 
 Hi Paper North team,
 
-I'm Alex, the manager of Manchester illustrator and content creator Nia Vale. She creates illustrated portraits, sketchbook process videos and prints inspired by local street scenes.
+I'm Alex, manager of Nia Vale, a Manchester illustrator whose sketchbook process videos follow a drawing from first line to finished print.
 
-Your sketchbooks and Manchester shop prompted an idea for a paid collaboration: a short video following Nia as she turns a Manchester street scene into a finished illustration, with the sketchbook at the centre of the process. We could explore a final print reveal as part of the concept, with scope and usage agreed together.
+Your sketchbooks and Manchester shop gave me an idea for a paid video: Nia draws one Manchester street start to finish in a Paper North sketchbook, ending on the finished print. It would work as a short TikTok and Instagram video, and the original could be displayed in your shop.
 
-You can see her work on Instagram: https://instagram.example/niavale and TikTok: https://tiktok.example/@niavale.
+You can see the same format here: Instagram: https://instagram.example/niavale · TikTok: https://tiktok.example/@niavale
 
-Would your team be open to a short outline of the concept?
+Shall I send a one-page outline with deliverables?
 
 Alex Reed
 
 ## Loop Frame: draft ready for review in the fictional scenario
 
-Recipient: supplied commercial contact form. No named recipient has been invented.
+Recipient: supplied commercial contact form. No named recipient has been invented, so the ask is for the right contact.
 
-Subject A: From portrait sketch to framed print with Nia Vale
-Subject B: A paid process-to-display concept for Loop Frame
+Subject A: Portrait-to-frame video idea for Loop Frame
+Subject B: Nia Vale × Loop Frame: from sketchbook to wall
 
 Hi Loop Frame team,
 
-I'm Alex, the manager of Nia Vale, a Manchester illustrator and content creator. Nia makes illustrated portraits and videos showing the creative process behind her work.
+I'm Alex, manager of Nia Vale, a Manchester illustrator who makes illustrated portraits and videos showing the process behind them.
 
-I have an idea for a paid collaboration around your print frames: a short process-to-display video following an original portrait from sketchbook to finished framed piece. It could show how the artwork changes as it moves from the desk to a space where it can be enjoyed, with deliverables and usage discussed together.
+I have an idea for a paid video built around your print frames: Nia draws a portrait from the first sketch, prints it, and the video ends as it goes into a Loop Frame frame and up on the wall. That final shot gives you a clear before-and-after, with usage agreed together.
 
-Her work is on Instagram: https://instagram.example/niavale and TikTok: https://tiktok.example/@niavale.
+Her process videos: Instagram: https://instagram.example/niavale · TikTok: https://tiktok.example/@niavale
 
-Would you be the right team to discuss a brief outline?
+Could you point me to the right person for creator partnerships?
 
 Alex Reed
 
 ## Follow-up plan
 
-If an initial message is sent and there is no reply, consider a first follow-up after about five business days with a relevant sample and a final close-out after about twelve business days. No calendar dates are set because nothing has been sent. Nothing is scheduled.
+Only after a confirmed send, and only if there's no reply:
+
+- **About five business days later:** reply in the same thread with something new, such as a rough storyboard frame or sketch of the opening shot, in one or two lines.
+- **About twelve business days later:** a polite close, offering to share future ideas.
+
+No calendar dates are set because nothing has been sent. Nothing is scheduled.
 
 ## Evidence ledger
 
 | ID | Facts | Source | Provenance | Checked on | Limits |
 |---|---|---|---|---|---|
 | C1 | Practice, location, manager, links, goal and exclusions | brief.md | supplied-document | — | Fictional; metrics not supplied |
-| B1 | Paper North product, shop, UK delivery and address | brief.md | supplied-document | — | No inspection, campaign or budget evidence |
-| B2 | Loop Frame product, UK sales and contact route | brief.md | supplied-document | — | No named contact, campaign or budget evidence |
+| B1 | Paper North product, shop, UK delivery and address | brief.md | supplied-document | — | No inspection, campaign, budget or timing evidence |
+| B2 | Loop Frame product, UK sales and contact route | brief.md | supplied-document | — | No named contact, campaign, budget or timing evidence |
 
 ## Action record
 

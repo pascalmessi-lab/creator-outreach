@@ -41,8 +41,10 @@ For each dimension use `0 = evidenced mismatch`, `1 = plausible partial fit`, `2
 | Audience/context | Shared interests or context supported by supplied analytics or actual content; do not assume geography/demographics |
 | Creative fit | A specific product, programme or brand activity the creator can work with credibly |
 | Format feasibility | A deliverable compatible with demonstrated work and the requested partnership type |
-| Geography/timing | Delivery region, travel, availability or campaign dates compatible with the brief |
+| Geography | Brand sells, ships or operates where the creator can deliver; travel is feasible if needed |
 
-Display all four dimensions and evidence coverage, e.g. `2 / 2 / 2 / ?; 3 of 4 assessed`. Sum to a total out of eight only when all four are assessed. Do not silently turn unknowns into zero or compare incomplete totals with complete totals. Prefer better-supported candidates; explain ordering that depends on judgment. No score establishes affordability, reply likelihood or intent to commission.
+Display all four dimensions and evidence coverage, e.g. `2 / 2 / 2 / ?; 3 of 4 assessed`. Sum to a total out of eight only when all four are assessed.
+
+Timing is not scored, because it is rarely knowable from public sources. Record it separately as `timing: [evidenced hook / unknown / conflict]`. An evidenced hook (a launch, a season, a dated campaign) strengthens the pitch's "why now". A known conflict (such as dates the creator can't do) belongs under exclusions. Do not silently turn unknowns into zero or compare incomplete totals with complete totals. Prefer better-supported candidates; explain ordering that depends on judgment. No score establishes affordability, reply likelihood or intent to commission.
 
 For a roster, show the recommended creator for each brand and the differentiating fit. Avoid sending competing pitches from several roster members. Record the chosen thread owner.
