@@ -1,0 +1,135 @@
+{
+  "review_basis": "Only the supplied review packet and rubric; recipient-facing drafts assessed without inferring their production method.",
+  "disclosures": {
+    "agent_raters": 1,
+    "human_review": false,
+    "significance_claim": false,
+    "scope": "Exploratory paired draft comparison, not a commercial-outcome benchmark."
+  },
+  "tasks": [
+    {
+      "id": "offline-creator",
+      "candidates": {
+        "A": {
+          "dimensions": {
+            "brand_fit_specificity": {
+              "score": 2,
+              "evidence": "Connects Loom Supply ink and its Leeds shop to a drawing-to-tote tutorial; connects Carry Form blank totes to that process or a design commission."
+            },
+            "evidence_use": {
+              "score": 2,
+              "evidence": "Accurately uses supplied practice, location, products and profile links; adds no metrics, campaigns or budget."
+            },
+            "next_step": {
+              "score": 1,
+              "evidence": "Usable asks, but the requests for a brief, budget, timing and intended deliverables/design use create more initial response burden than a simple interest check."
+            },
+            "commercial_scope": {
+              "score": 2,
+              "evidence": "Explicit paid content or commissioned design; deliverables, timing and usage/licence remain for agreement before quoting."
+            },
+            "clarity_and_brevity": {
+              "score": 2,
+              "evidence": "Clear introduction, recipient-specific proposal, portfolio links and closing ask in a consistent manager voice."
+            }
+          },
+          "total": 9,
+          "critical_failures": []
+        },
+        "B": {
+          "dimensions": {
+            "brand_fit_specificity": {
+              "score": 2,
+              "evidence": "Offers an executable ink-based process TikTok and a tote design commission with a mock-up, tied to each recipient's product."
+            },
+            "evidence_use": {
+              "score": 2,
+              "evidence": "Uses supplied location, practice, products and links accurately. Video length and mock-up are proposed ideas, not asserted facts; no metrics or campaign invented."
+            },
+            "next_step": {
+              "score": 2,
+              "evidence": "Each recipient gets one low-burden decision: whether they are open to reviewing an outline for the paid project."
+            },
+            "commercial_scope": {
+              "score": 2,
+              "evidence": "Both projects are paid proposals; the specific video and commission are ideas rather than agreed deliverables. Licence and production requirements remain to be agreed."
+            },
+            "clarity_and_brevity": {
+              "score": 1,
+              "evidence": "Readable, but the Loom paragraph repeats the process/reveal idea in its final sentence, and two subject alternatives per pitch add selection clutter."
+            }
+          },
+          "total": 9,
+          "critical_failures": []
+        }
+      },
+      "preference": "B",
+      "preference_reason": "Equal totals reflect different strengths. B's easier, clearer first response for both recipients outweighs its avoidable repetition for initial outreach.",
+      "scope_notes": [
+        "Neither recipient-facing candidate includes the excluded gambling brand. The packet contains pitch excerpts; shortlist and CSV tracker are outside this review."
+      ]
+    },
+    {
+      "id": "launch-proof-agency",
+      "candidates": {
+        "A": {
+          "dimensions": {
+            "brand_fit_specificity": {
+              "score": 2,
+              "evidence": "Proposes a 45-second TikTok using Streetlight A5 for a Leeds architectural sketch, ending with the finished print beside it."
+            },
+            "evidence_use": {
+              "score": 2,
+              "evidence": "Correct launch, concept deadline and production window; accurately reports median 18,400 views, ten-video sample, publication period and analytics date, with the relevant post."
+            },
+            "next_step": {
+              "score": 2,
+              "evidence": "One concrete question to the campaign agency: whether Sam should send a one-page concept by its supplied deadline."
+            },
+            "commercial_scope": {
+              "score": 2,
+              "evidence": "One paid 45-second TikTok on Leah's channel; approvals and posting timing remain to agree, with no fee, advertising rights, exclusivity or artwork transfer promised."
+            },
+            "clarity_and_brevity": {
+              "score": 2,
+              "evidence": "Compact paragraphs cover concept, availability, proof and next step; two subject options and relevant links are easy to scan."
+            }
+          },
+          "total": 10,
+          "critical_failures": []
+        },
+        "B": {
+          "dimensions": {
+            "brand_fit_specificity": {
+              "score": 2,
+              "evidence": "Ties Streetlight A5 to local architecture and Leah's sketch-to-print process, with a practical building-detail, sketchbook and print sequence."
+            },
+            "evidence_use": {
+              "score": 2,
+              "evidence": "Preserves the supplied median, sample, period and analytics date; accurately uses launch, concept deadline, production window and relevant process post."
+            },
+            "next_step": {
+              "score": 1,
+              "evidence": "'Would you like to take this concept forward' is a usable interest check but leaves the next action less specified than an offer to send the agency a concept document."
+            },
+            "commercial_scope": {
+              "score": 2,
+              "evidence": "Explicit paid partnership for one requested 45-second TikTok; posting and approvals require agreement and no unauthorised fee or rights are added."
+            },
+            "clarity_and_brevity": {
+              "score": 1,
+              "evidence": "Readable, but the concept paragraph explains the sketch-to-print journey twice, adding length without a distinct new point."
+            }
+          },
+          "total": 8,
+          "critical_failures": []
+        }
+      },
+      "preference": "A",
+      "preference_reason": "A retains the concept, evidence and launch timing in less repetitive copy and gives the agency a more concrete next step.",
+      "scope_notes": [
+        "Neither displayed draft labels the exercise fictional, despite the task requiring it. This is a task-compliance omission outside the rubric's defined critical failures. Internal notes are absent from both excerpts and cannot be assessed."
+      ]
+    }
+  ]
+}

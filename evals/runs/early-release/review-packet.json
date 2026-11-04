@@ -1,0 +1,66 @@
+{
+  "instruction": "Review the recipient-facing drafts for each task using only this packet. Score each named dimension 0, 1 or 2 and explain briefly with concrete evidence. Identify any critical failure separately. Give an A/B/tie preference per task. You are not told how the drafts were produced. Do not inspect any other files or browse.",
+  "rubric": {
+    "design": "Exploratory paired draft comparison; one generation per condition per task, same available agent configuration. Not a commercial-outcome benchmark.",
+    "conditions": [
+      "with final skill",
+      "without project-specific skill"
+    ],
+    "tasks": [
+      "offline-creator",
+      "launch-proof-agency"
+    ],
+    "critical_failures": [
+      "Invented factual metrics, budget, contact, current campaign or unsupported deadline",
+      "Ignored a hard creator exclusion or changed paid work to gifted work",
+      "Claimed actual sending/scheduling or private data disclosure"
+    ],
+    "dimensions": [
+      {
+        "name": "brand_fit_specificity",
+        "score_0": "Generic or mismatched",
+        "score_1": "Relevant product connection but limited detail",
+        "score_2": "Specific creator/product connection and executable concept"
+      },
+      {
+        "name": "evidence_use",
+        "score_0": "Misstates or invents facts",
+        "score_1": "Accurate but misses a useful supplied proof point or hook",
+        "score_2": "Uses available evidence accurately; sensibly omits unavailable metrics/hooks"
+      },
+      {
+        "name": "next_step",
+        "score_0": "No usable ask or several conflicting asks",
+        "score_1": "Usable but vague or unnecessarily demanding",
+        "score_2": "One clear proportionate next step for the actual recipient"
+      },
+      {
+        "name": "commercial_scope",
+        "score_0": "Changes goal or makes unauthorised commitments",
+        "score_1": "Preserves goal with some ambiguous scope",
+        "score_2": "Clear paid proposal with no unsupported fee, rights or deliverable commitments"
+      },
+      {
+        "name": "clarity_and_brevity",
+        "score_0": "Confusing, bloated or inconsistent voice",
+        "score_1": "Readable with avoidable filler",
+        "score_2": "Concise, natural and consistent sender voice"
+      }
+    ],
+    "grading": "Blind the rater to condition labels; judge only recipient-facing drafts with the original task facts. Record critical failures separately from the 0–10 total. Do not reward length, extra administration or metrics that were never supplied. Disclose one agent rater, no human review and no significance claim."
+  },
+  "pairs": [
+    {
+      "id": "offline-creator",
+      "task": "All inputs are fictional. I am manager Sam for Leeds textile artist Ada Finch, who makes fabric-print tutorials and videos turning drawings into tote bags. Links: https://instagram.example/adafinch and https://tiktok.example/@adafinch. Goal: paid UK content or commissioned design. Exclude alcohol and gambling. No metrics or rate card. Use only supplied facts, no browsing. Loom Supply (loomsupply.example) sells printing ink in the UK and has a Leeds shop; collabs@loomsupply.example is supplied. Carry Form (carryform.example) sells blank totes in the UK; contact form https://carryform.example/contact is supplied. Lucky Night (luckynight.example) is a gambling company seeking tote designs. No current campaigns or budgets are known. Produce a shortlist, concepts, two pitches and a CSV tracker. No files or messages should be written/sent.",
+      "A": "### Pitch 1 — Loom Supply email\n\n**To:** collabs@loomsupply.example  \n**Subject:** Paid fabric-print tutorial idea with Leeds artist Ada Finch\n\nHi Loom Supply team,\n\nI'm Sam, manager for Leeds textile artist Ada Finch. Ada makes fabric-print tutorials and videos showing how she turns drawings into tote bags.\n\nWith your printing ink range and Leeds shop, I thought there could be a fit for a paid content collaboration: a tutorial following an original Ada drawing through to a printed tote, using a suitable Loom Supply ink.\n\nYou can see Ada's work here:\nhttps://instagram.example/adafinch\nhttps://tiktok.example/@adafinch\n\nAre you considering paid creator content? If so, could you share your brief and budget range? We can then discuss deliverables, timing and usage rights before quoting.\n\nBest,\nSam  \nManager for Ada Finch\n\n### Pitch 2 — Carry Form contact form\n\n**Subject, if available:** Paid tote content or commissioned design — Ada Finch\n\nHi Carry Form team,\n\nI'm Sam, manager for Ada Finch, a Leeds textile artist who makes fabric-print tutorials and videos turning drawings into tote bags.\n\nYour blank totes look relevant to a paid collaboration built around that process: taking an original Ada drawing and showing its transformation into a finished tote. Alternatively, we'd be interested in discussing a commissioned tote design, with the intended use and licence agreed as part of the scope.\n\nAda's work:\nhttps://instagram.example/adafinch\nhttps://tiktok.example/@adafinch\n\nDo you have a paid content or commissioned-design brief this could suit? Please share the intended deliverables or design use, timing and budget range so we can assess fit and quote.\n\nBest,\nSam  \nManager for Ada Finch",
+      "B": "**Pitch 1 — Loom Supply email draft**\n\nTo: collabs@loomsupply.example\n\nSubject A: Ada Finch: drawing-to-tote video for Loom Supply\nSubject B: Loom Supply ink in Ada Finch’s fabric-print process\n\nHi Loom Supply team,\n\nI’m Sam, manager of Leeds textile artist Ada Finch. Ada makes fabric-print tutorials and videos turning drawings into tote bags.\n\nYour printing ink and Leeds shop suggest a paid content idea: one 45–60 second TikTok taking a drawing through the fabric-printing process with Loom Supply ink, finishing with the printed tote. The ink would be part of the making process, with the final reveal showing how the drawing translates onto fabric.\n\nAda’s work: Instagram: https://instagram.example/adafinch · TikTok: https://tiktok.example/@adafinch\n\nWould you be open to reviewing a one-page outline for this paid video?\n\nSam\nManager, Ada Finch\n\n**Pitch 2 — Carry Form contact-form draft**\n\nSubject A, if supported: Ada Finch: an original tote design for Carry Form\nSubject B, alternative: Carry Form totes × Ada Finch’s textile artwork\n\nHi Carry Form team,\n\nI’m Sam, manager of Ada Finch, a Leeds textile artist who makes fabric-print tutorials and videos turning drawings into tote bags.\n\nYour blank totes suggest a paid design commission: one original Ada Finch design developed for a Carry Form tote, with a process mock-up showing the drawing on the bag. We would agree the design dimensions, production requirements and any reproduction licence around your intended use before starting.\n\nAda’s work: Instagram: https://instagram.example/adafinch · TikTok: https://tiktok.example/@adafinch\n\nWould your team be open to reviewing a short outline for this paid commission?\n\nSam\nManager, Ada Finch"
+    },
+    {
+      "id": "launch-proof-agency",
+      "task": "Use only these supplied fictional facts, without browsing or contacting anyone. Today is 2026-11-04, Europe/London. I am Sam, manager of Leeds illustrator Leah Hart, who makes process videos turning local architecture sketches into prints. We want a paid partnership for one proposed 45-second TikTok on Leah's channel. Instagram https://instagram.example/leahhart; TikTok https://tiktok.example/@leahhart; relevant supplied post https://tiktok.example/@leahhart/posts/leeds-arcade. Supplied analytics dated 2026-11-02 reports a median of 18,400 views across her last ten TikTok process videos published September–October 2026. No engagement, follower or unique-reach figure. Fictional brand Paper Foundry (paperfoundry.example) sells sketchbooks in the UK. Its supplied Streetlight A5 launch brief says the range launches on 2026-11-15 and creator concepts are requested by 2026-11-08. The supplied brief at https://paperfoundry.example/streetlight/creator-brief identifies Northline Studio as the current campaign agency and programmes@northline.example as the proposal route. Leah can produce on 2026-11-12 to 2026-11-14; posting and approvals need agreement. Draft one concise email to the agency with two subject options, a specific product/process concept, the supplied proof point and launch hook, and one next step. Add brief internal notes. No fee, advertising rights, exclusivity or artwork transfer has been authorised. All names, metrics and .example URLs are fictional; label the exercise accordingly.",
+      "A": "**To:** programmes@northline.example\n**Subject option 1:** Leah Hart: Streetlight A5 sketch-to-print TikTok\n**Subject option 2:** Leah Hart × Paper Foundry: Leeds in 45 seconds\n\nHi Northline Studio team,\n\nI'm Sam, manager of Leeds illustrator Leah Hart, who makes process videos turning local architecture sketches into prints.\n\nFor Paper Foundry's Streetlight A5 launch on 15 November, we propose one paid 45-second TikTok on Leah's channel: sketch a Leeds architectural detail in the Streetlight A5, show the drawing develop, then cut to the finished print beside the original sketch. Leah can produce 12–14 November, with approvals and posting timing to agree.\n\nHer last ten TikTok process videos, published September–October 2026, had a median of 18,400 views (analytics dated 2 November).\n\nRelevant process: https://tiktok.example/@leahhart/posts/leeds-arcade\nTikTok: https://tiktok.example/@leahhart\nInstagram: https://instagram.example/leahhart\n\nShall I send a one-page concept by your 8 November deadline?\n\nSam",
+      "B": "**To:** programmes@northline.example  \n**Subject option 1:** Leah Hart × Streetlight A5 — Leeds sketch-to-print TikTok  \n**Subject option 2:** Paper Foundry’s 15 November launch: a Leeds architecture concept\n\nHi Northline Studio team,\n\nI’m Sam, manager of Leeds illustrator Leah Hart. For Paper Foundry’s Streetlight A5 launch on 15 November, we’d like to propose a paid partnership: one 45-second TikTok on Leah’s channel, submitted ahead of your 8 November concept deadline.\n\nThe concept: “Leeds, from street to print.” Leah sketches a local architectural detail in a Streetlight A5 sketchbook, then shows how she develops that sketch into a finished print. The video moves from the building detail to the sketchbook page and ends with the print beside the original drawing. Her [Leeds arcade process video](https://tiktok.example/@leahhart/posts/leeds-arcade) shows the relevant format.\n\nSupplied analytics dated 2 November report a median of 18,400 views across her last ten TikTok process videos, published September–October 2026. Leah can produce on 12–14 November; posting timing and approvals would need agreement.\n\nWould you like to take this concept forward for the Streetlight A5 launch?\n\nBest,  \nSam  \nManager, Leah Hart  \n[TikTok](https://tiktok.example/@leahhart) · [Instagram](https://instagram.example/leahhart)"
+    }
+  ]
+}
